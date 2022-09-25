@@ -9,7 +9,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name="Student_Springboot")
 public class Student{
-	
+	//priya
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private int id;
